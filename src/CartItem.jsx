@@ -49,7 +49,7 @@ const CartItem = ({ onContinueShopping }) => {
 
   // Optional future feature: checkout alert
   const handleCheckoutShopping = (e) => {
-    alert('Functionality to be added for future reference');
+    alert('Coming Soon');
   };
 
   return (
